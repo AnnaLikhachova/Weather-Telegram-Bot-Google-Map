@@ -1,0 +1,11 @@
+/Users/anna/eclipse-workspace/simple.bot/src/main/java/com/simple/bot/units/WeatherUnits.java
+/Users/anna/eclipse-workspace/simple.bot/src/main/java/com/simple/bot/utils/JsonReader.java
+/Users/anna/eclipse-workspace/simple.bot/src/main/java/com/simple/models/WeatherCondition.java
+/Users/anna/eclipse-workspace/simple.bot/src/main/java/com/simple/models/Coordinates.java
+/Users/anna/eclipse-workspace/simple.bot/src/main/java/com/simple/models/CurrentWeather.java
+/Users/anna/eclipse-workspace/simple.bot/src/main/java/com/simple/bot/App.java
+/Users/anna/eclipse-workspace/simple.bot/src/main/java/com/simple/models/City.java
+/Users/anna/eclipse-workspace/simple.bot/src/main/java/com/simple/models/WeatherMain.java
+/Users/anna/eclipse-workspace/simple.bot/src/main/java/com/simple/bot/utils/JsonUtil.java
+/Users/anna/eclipse-workspace/simple.bot/src/main/java/com/simple/models/Forecast.java
+/Users/anna/eclipse-workspace/simple.bot/src/main/java/com/simple/bot/Bot.java
